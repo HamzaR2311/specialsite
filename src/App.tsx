@@ -29,9 +29,9 @@ function App() {
   }, []);
 
   const photos = [
-    "photos/IMG_5365.JPG",
-    "photos/IMG_5380.JPG",
-    "photos/IMG_5388.JPG",
+    "public/IMG_5365.JPG",
+    "public/IMG_5380.JPG",
+    "public/IMG_5388.JPG",
   ];
 
   return (
